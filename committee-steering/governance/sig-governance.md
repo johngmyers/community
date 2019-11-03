@@ -6,7 +6,7 @@ In order to standardize Special Interest Group efforts, create maximum transpare
 
 - Create a charter and have it approved according to the [SIG charter process]
 - Meet regularly, at least for 30 minutes every 3 weeks, except November and December
-- Keep up-to-date meeting notes, linked from the SIG's page in the community repo
+- Keep up-to-date, publicly available meeting notes, linked from the SIG's page in the community repo
 - Record meetings and make them publicly available on a YouTube playlist
 - Report activity in the weekly community meeting at least once every quarter
 - Participate in release planning meetings and retrospectives, and burndown meetings, as needed
